@@ -1,2 +1,2 @@
 # E-Commerce-Medicine-Website-
-This website is created by using html , css , Javascript  and PHP.
+This website is created by using HTML , CSS , JAVASCRIPT.
