@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;1,600&display=swap');
+
+
+.parant {
+    position: relative;
+}
+.submenu{
+    margin-top: 30px;
+    display:none;
+}
+.parant:hover .submenu
+{
+    display: block;
+    
+}
